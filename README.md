@@ -1,6 +1,15 @@
 # SymfoniaFk
 Pomocnicze raporty do systemu Sage Symfonia Finanse i Księgowość (R)
 
+# Raporty użytkowe #
+
+## Odblokowanie sald ujemnych ##
+
+Po uruchomieniu raportu (*Raporty* / *Własne*) wszystkie wyciągi bankowe i raporty kasowe
+będą mogły mieć ujemne salda. Pomocne np. przy rachunkach kredytowych.
+
+Plik [`saldark.sc`](https://github.com/bonsoftpl/SymfoniaFk/blob/master/eksp_rap.sc).
+
 # Raporty diagnostyczne
 
 Raporty diagnostyczne przeznaczone są dla zaawansowanych
